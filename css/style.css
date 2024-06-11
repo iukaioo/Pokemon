@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://www.einerd.com.br/wp-content/uploads/2018/06/pok%C3%A9mon-alimento-capa-e1559149719440-890x466.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+div.pokemon-info {
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-style: solid;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+div.image-container {
+    text-align: center;
+}
+
+div.title {
+    text-align: center;
+}
+
+img.pokemon-image {
+    width: 500px;
+}
